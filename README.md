@@ -1,7 +1,7 @@
 
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: ANU VARSHINI M B</h3>
-<h3>Register Number:212223240010</h3>
+<h3>Name: VISHNU K M </h3>
+<h3>Register Number:212223240185 </h3>
 
 
 <h3>AIM:</h3>
